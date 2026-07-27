@@ -1,3 +1,17 @@
-This project is a simple trivia quiz that prompts the user python-related questions. A total score out of 5 is shown at the end.
+# Python Trivia Quiz
 
-<img width="397" height="301" alt="Screenshot 2026-07-22 at 19 38 41" src="https://github.com/user-attachments/assets/2777dc75-e8fc-4356-9a29-f98ed8468afd" />
+A simple command-line trivia quiz about Python programming.  
+The game randomly selects 5 questions and keeps track of your score.
+
+## Features
+
+- 10 Python-related questions
+- Randomly selects 5 questions each game
+- Case-insensitive answers
+- Instant feedback after each question
+- Final score at the end
+
+## How to Run
+
+```bash
+python trivia.py
