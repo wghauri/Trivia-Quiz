@@ -15,3 +15,15 @@ The game randomly selects 5 questions and keeps track of your score.
 
 ```bash
 python trivia.py
+```
+
+## Example
+```
+1. What is the keyword to define a function in Python?
+Your answer: def
+Correct!
+
+...
+
+Game over! Your final score is: 4/5
+```
